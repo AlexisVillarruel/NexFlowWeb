@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   emailjs.init({
-    publicKey: "x1j-IKMVLrlBiy_RH", // Reemplaza "YOUR_PUBLIC_KEY" con tu clave pública obtenida de EmailJS
+    publicKey: "x1j-IKMVLrlBiy_RH", // Reemplaza "YOUR_PUBLIC_KEY" con tu clave pública obtenida de EmailJS 2
   });
 
   document.getElementById("wf-form-Contact-3-Form").addEventListener("submit", function (event) {
